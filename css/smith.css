@@ -1,0 +1,83 @@
+/*.col-lg-9{
+	border: 2px;
+	border-color: black;
+	background-color: #A8A8A8;
+	opacity: .9;
+	
+}
+/* centered columns styles */
+.row-centered {
+    text-align:center;
+}
+.col-centered {
+    display:inline-block;
+    float:none;
+    /* reset the text-align */
+    text-align:center;
+    /* inline-block space fix */
+    margin-right:-4px;
+}
+
+.smith_logo {
+    padding-top: 20px;
+    width: 35%;
+}
+
+#download {
+    height: 35px;
+    margin-top: -4px;
+    border-radius: 0px 5px 5px 0;
+    background-color: #E6E7E9;
+}
+
+div.download_box.col-lg-9.col-centered > a > div > p {
+    display: inline-block;
+    font-size: large;
+    margin: 0;
+}
+
+.download_box > a {
+    display: inline-block;
+    font-size: large;
+    margin: 0;
+}
+
+div.download_box.col-lg-9.col-centered > a > div > p {
+    color: #171718;
+    padding: 5px 22px 5px 9px;
+}
+
+.around {
+    width: 302.82px;
+    margin: 0 auto 10px;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+.changeopacity {
+    background-color: #ffffff;
+    opacity:.8;
+    margin-top: 20px;
+    border-radius: 5px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.arc_logo {
+    padding-top: 20px;
+    width: 25%;
+}
+
+.reef_logo {
+    padding-top: 20px;
+    width: 20%;
+}
+
+.margins {
+    margin-top: -20px;
+    margin-bottom: -30px;
+    width: 45%
+}
+iframe, object, embed {
+        max-width: 100%;
+}

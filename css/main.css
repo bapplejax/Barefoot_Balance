@@ -1,0 +1,116 @@
+h3.h5bp {
+  border: 0;
+  font: 0/0 a;
+  text-shadow: none;
+  color: transparent;
+  background: url(img/WSI-LOGOtrans.png);
+  width: 100%;
+  height: auto;
+}
+.main-logo{
+width: 50%;
+height: 50%;
+}
+
+.thumbnail{
+	background-color: transparent;
+	border: none;
+ float: left;
+}
+#wade{
+  margin-top: 10px;
+}
+div.img-div{
+    height:200px;
+    width:200px;
+    overflow:hidden;
+    border-radius:50%;
+}
+
+.content-section-a{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.content-section-b{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.item{
+ max-height: px;
+}
+
+.intro-message{
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.intro-header{
+  background-image: url('../img/windymtn.jpeg');
+}
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+.carousel-control.left, .carousel-control.right {
+    background-image: none
+}
+.btn, .btn-primary {
+color: #000000;
+background-color: #f5f5f5;
+border-color: darkgray;
+}
+
+footer{
+  padding-top: 15px;
+padding-bottom: 15px;
+text-align: center;
+}
+
+.dark_opacity {
+  background-color: rgba(0,0,0,.6);
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+#connect_picture {
+  width: 100%;
+}
+
+.left_fifteen {
+  margin-left: -15px;
+}
+
+#dealeraccess {
+  padding: 13px;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 2px;
+  background-color: rgb(200,200,200);
+}
+
+@media (min-width: 990px){#centerthebottom {
+  margin-left: -74px;
+  padding-right: 0;
+  padding-left: 296px;
+}}
+
+@media (max-width: 415px){.disappearsmall {
+  display: none;
+  }}
+
+#team {
+  background-color: #E5E4E2;
+}
+
+.row {
+  margin: auto;
+}
+
+.socialbottom {
+  padding-left: 0;
+}
+
+>>>>>>> Stashed changes
+
